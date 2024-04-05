@@ -25,5 +25,5 @@
 hs_err_pid*
 replay_pid*
 /build/
-nbproject/project.properties
-nbproject/project.properties
+/nbproject/
+
